@@ -10,7 +10,7 @@
 	* 蛋炒饭
 	* 绿豆芽炒饼丝
 	* 爆炒虾（图片）
-	* [土豆炖牛肉](#https://www.baidu.com/mip/c/m.douguo.com/recipe/mip/809006)
+	* [土豆炖牛肉](http://blog.csdn.net/guodongxiaren)
 	* [梅菜扣肉](#横线)
 	* [干锅土豆片](#横线)
 	* [意大利面牛排](#横线)
