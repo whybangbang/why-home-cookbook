@@ -33,6 +33,7 @@
 	* 皮蛋豆腐
 	* 洋葱炒藕
 	* [醋溜土豆丝](https://wapbaike.baidu.com/item/醋溜土豆丝/4923737?fr=aladdin)
+	* [馄饨](https://www.baidu.com/mip/c/m.meishichina.com/recipeshow/98082/?from=singlemessage&isappinstalled=0)
 * 火锅菜谱
 	* 底料(海底捞 呷哺呷哺)
 	* 蘸料
