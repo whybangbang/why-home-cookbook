@@ -8,6 +8,7 @@
 	* 苏格兰打卤面
 	* 焖面
 	* 蛋炒饭
+	* [老干妈炒饭](http://www.xiachufang.com/recipe/104205038/)
 	* [绿豆芽炒饼丝](https://www.baidu.com/mip?ext=%7B%22url%22%3A%22%2F%2Fmipcache.bdstatic.com%2Fc%2Fs%2Fm.meishij.net%2Fhtml5%2Fmip%2Fzuofa%2Frousidouyachaobing_1.html%3Ffrom%3Dbdaladdin%22%2C%22lid%22%3A%221092156612902787538%22%7D&title=肉丝豆芽炒饼_美食杰)
 	* 爆炒虾（图片）
 	* [土豆炖牛肉](https://www.baidu.com/mip/c/m.douguo.com/recipe/mip/809006)
@@ -16,7 +17,7 @@
 	* 意大利面牛排
 	* 红烧排骨
 	* 炒花蛤
-	* 葱爆羊肉
+	* [葱爆羊肉](https://www.youtube.com/watch?v=DmafXVqOTnw)
 	* [山西过油肉](#https://m.xiangha.com/so?t=caipu&s=山西过油肉)
 	* [木须肉](#https://m.xiangha.com/so?t=caipu&s=木须肉)
 	* 冬瓜炖排骨
@@ -31,6 +32,7 @@
 	* 腐竹木耳
 	* 炒西葫芦
 	* 皮蛋豆腐
+	* [青椒炒肉](https://baijiahao.baidu.com/s?id=1619702409713495640&wfr=spider&for=pc)
 	* 洋葱炒藕
 	* [醋溜土豆丝](https://wapbaike.baidu.com/item/醋溜土豆丝/4923737?fr=aladdin)
 	* [馄饨](https://www.baidu.com/mip/c/m.meishichina.com/recipeshow/98082/?from=singlemessage&isappinstalled=0)
