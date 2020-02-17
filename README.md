@@ -31,6 +31,8 @@
 	* 厥根粉
 	* 腐竹木耳
 	* 炒西葫芦
+	* [蒜蓉油麦菜](https://www.meishij.net/yaoshanshiliao/jibingtiaoli/niaolujieshi/160062.html)
+	* [蒜黄炒鸡蛋](https://jingyan.baidu.com/article/8065f87f5b808923312498d2.html)
 	* 皮蛋豆腐
 	* [青椒炒肉](https://baijiahao.baidu.com/s?id=1619702409713495640&wfr=spider&for=pc)
 	* 洋葱炒藕
